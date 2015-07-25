@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2011-2013 The Android Open Source Project
+ * Copyright (C) 2011-2014 The Android Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -18,6 +18,7 @@
  * This file is auto-generated. DO NOT MODIFY!
  * The source Renderscript file: D:\\APCS\\MobileDev\\Final Project\\TEST_THING\\AndroidStackBlurTest\\StackBlur\\src\\blur.rs
  */
+
 package com.enrique.stackblur;
 
 import android.support.v8.renderscript.*;
@@ -128,7 +129,7 @@ public class ScriptC_blur extends ScriptC {
     //private final static int mExportForEachIdx_root = 0;
     private final static int mExportForEachIdx_blur_v = 1;
     public Script.KernelID getKernelID_blur_v() {
-        return createKernelID(mExportForEachIdx_blur_v, 1, null, null);
+        return createKernelID(mExportForEachIdx_blur_v, 33, null, null);
     }
 
     public void forEach_blur_v(Allocation ain) {
@@ -145,7 +146,7 @@ public class ScriptC_blur extends ScriptC {
 
     private final static int mExportForEachIdx_blur_h = 2;
     public Script.KernelID getKernelID_blur_h() {
-        return createKernelID(mExportForEachIdx_blur_h, 1, null, null);
+        return createKernelID(mExportForEachIdx_blur_h, 33, null, null);
     }
 
     public void forEach_blur_h(Allocation ain) {
