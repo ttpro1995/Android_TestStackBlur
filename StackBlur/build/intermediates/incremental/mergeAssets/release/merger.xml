@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\APCS\MobileDev\Final Project\TEST_THING\AndroidStackBlurTest\StackBlur\assets"><file name="ic_launcher.png" path="D:\APCS\MobileDev\Final Project\TEST_THING\AndroidStackBlurTest\StackBlur\assets\ic_launcher.png"/></source></dataSet><dataSet config="release"><source path="D:\APCS\MobileDev\Final Project\TEST_THING\AndroidStackBlurTest\StackBlur\build-types\release\assets"/></dataSet></merger>
